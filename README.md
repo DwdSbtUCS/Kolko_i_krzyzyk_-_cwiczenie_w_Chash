@@ -3,12 +3,12 @@
 Prosta gra dla dwóch osób, napisana w C# z interfejsem Windows Forms.
 Projekt powstał w ramach ćwiczenia polegającego na analizie i modyfikacji istniejącego programu.
 
-- Autor opracowania: Dawid Sobota, nr albumu .....
+- Autor opracowania: XXX YYY, nr albumu .....
 - Uczelnia: Akademia WSB.
 - Przedmiot według instrukcji: Podstawy programowania komputerów.
 - Data opracowania: 04.11.2026.
 - Środowisko: Visual Studio, C#, Windows Forms, .NET Framework 3.5.
-- Zakres: zadania obowiązkowe 1–8. Zadania dodatkowe 9–10 pominięto.
+- Zakres: zadania obowiązkowe 1–8.
 
 ## Uruchomienie
 
@@ -390,7 +390,7 @@ Poniższe obrazy pochodzą ze sprawozdania i pokazują etapy pracy. Mogą przeds
 
 ## Pochodzenie projektu
 
-Kod źródłowy oryginalnego programu należy do Akademii WSB i został udostępniony do celów dydaktycznych. Dawid Sobota jest autorem opracowania i modyfikacji opisanych w sprawozdaniu.
+Kod źródłowy oryginalnego programu należy do Akademii WSB i został udostępniony do celów dydaktycznych. 
 
 ## Oryginał i wersja po modyfikacjach
 

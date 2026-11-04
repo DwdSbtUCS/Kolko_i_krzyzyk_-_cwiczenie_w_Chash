@@ -19,7 +19,7 @@ Projekt powstał w ramach ćwiczenia polegającego na analizie i modyfikacji ist
 
 Pierwszą partię rozpoczyna O. Opcja „Nowa gra” czyści planszę i zmienia gracza rozpoczynającego. Wyniki pozostają w pamięci do ich wyzerowania lub zamknięcia programu.
 
-## Zadanie 1 — Struktura programu
+## Zadanie 1  Struktura programu
 
 ### 1.1 Main, konstruktor Form1 i InitializeComponent
 
@@ -58,7 +58,7 @@ this.Przycisk[i, j].Click += new System.EventHandler(this.Przycisk_Click);
 
 Kliknięcia opcji „Nowa gra”, przycisku „koniec” i przycisku „Zeruj wyniki” są przypisane do odpowiednich metod w `InitializeComponent()`.
 
-## Zadanie 2 — Tablica i pętle
+## Zadanie 2  Tablica i pętle
 
 ### 2.1 Tablica przycisków
 
@@ -95,7 +95,7 @@ this.Przycisk[i, j].Size = new System.Drawing.Size(75, 45);
 
 Pola mają rozmiar 75 × 45 pikseli i odstępy po 5 pikseli.
 
-## Zadanie 3 — Obsługa kliknięcia
+## Zadanie 3  Obsługa kliknięcia
 
 ### 3.1 Parametr sender
 
@@ -141,7 +141,7 @@ else
 
 X jest niebieski, a O czerwone. Kolor tekstu ustawia właściwość `ForeColor`. Po wyłączeniu przycisków po zwycięstwie system może wyświetlić symbole na szaro.
 
-## Zadanie 4 — Warunki zwycięstwa
+## Zadanie 4  Warunki zwycięstwa
 
 ### 4.1 Metoda wygrana
 
@@ -191,7 +191,7 @@ for (int i = 0; i < 3; i++)
 
 Po wybraniu „Nowa gra” pola są ponownie włączane.
 
-## Zadanie 5 — Wykrywanie remisu
+## Zadanie 5  Wykrywanie remisu
 
 ### 5.1 Metoda PelnaPlansza i licznik
 
@@ -224,7 +224,7 @@ MessageBox.Show("Mamy remis byku.", "Próbuj ponownie");
 
 Przykładowa sekwencja testowa: `1 → 2 → 3 → 5 → 4 → 6 → 8 → 7 → 9`.
 
-## Zadanie 6 — Rozpoczęcie nowej gry
+## Zadanie 6  Rozpoczęcie nowej gry
 
 ### 6.1 ZerujPlansze i opcja Nowa gra
 
@@ -267,7 +267,7 @@ Na początku programu i po rozpoczęciu kolejnej partii ustawiany jest tekst:
 label1.Text = "Rozpoczyna gracz " + symbol;
 ```
 
-## Zadanie 7 — Zamykanie aplikacji
+## Zadanie 7  Zamykanie aplikacji
 
 ### 7.1 buttonKoniec_Click i Thread.Sleep
 
@@ -296,7 +296,7 @@ if (decyzja == DialogResult.Yes)
 
 „Tak” zamyka grę, a „Nie” pozostawia ją otwartą. Potwierdzenie dotyczy przycisku „koniec”.
 
-## Zadanie 8 — Licznik wyników
+## Zadanie 8  Licznik wyników
 
 ### 8.1 Liczniki
 

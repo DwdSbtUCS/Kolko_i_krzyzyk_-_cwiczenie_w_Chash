@@ -1,0 +1,10 @@
+.vs/
+[Bb]in/
+[Oo]bj/
+Backup/
+*.user
+*.suo
+*.userosscache
+*.sln.docstates
+UpgradeLog*.htm
+UpgradeLog*.xml

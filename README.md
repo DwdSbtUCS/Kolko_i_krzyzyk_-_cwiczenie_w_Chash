@@ -3,7 +3,7 @@
 Prosta gra dla dwóch osób, napisana w C# z interfejsem Windows Forms.
 Projekt powstał w ramach ćwiczenia polegającego na analizie i modyfikacji istniejącego programu.
 
-- Autor opracowania: Dawid Sobota, nr albumu 78618.
+- Autor opracowania: Dawid Sobota, nr albumu .....
 - Uczelnia: Akademia WSB.
 - Przedmiot według instrukcji: Podstawy programowania komputerów.
 - Data opracowania: 04.11.2026.
